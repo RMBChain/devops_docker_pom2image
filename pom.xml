@@ -9,7 +9,7 @@
 		<relativePath />
 	</parent>
 	<modelVersion>4.0.0</modelVersion>
-	<artifactId>SprintBootWeb_EasyExample</artifactId>
+	<artifactId>devops_docker_pom2image</artifactId>
 	<version>0.0.1</version>
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
